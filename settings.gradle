@@ -1,0 +1,5 @@
+rootProject.name = 'kafka-learning'
+include 'kafka-learning-producer'
+include 'kafka-learning-broker'
+include 'kafka-learning-consumer'
+
